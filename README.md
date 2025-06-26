@@ -48,7 +48,7 @@ CNN
 
 RNN
 
-Mind Map Generator.png
+![Preview](Mind Map Generator.png)
 
 > The app will auto-generate a mind map based on indentation.
 
@@ -65,7 +65,7 @@ Mind Map Generator.png
 
 ## 🚀 Setup Instructions
 
-```bash
+
 git clone https://github.com/your-username/mind-map-generator.git
 cd mind-map-generator
 npm install
