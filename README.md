@@ -48,7 +48,7 @@ CNN
 
 RNN
 
-![Preview](./Mind Map Generator.png)
+![Preview](./Mind_Map_Generator.png)
 
 > The app will auto-generate a mind map based on indentation.
 
